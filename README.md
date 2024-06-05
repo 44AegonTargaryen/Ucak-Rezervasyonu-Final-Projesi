@@ -9,7 +9,6 @@ Bu proje, bir uçak rezervasyon sistemi geliştirmeyi amaçlamaktadır. Kullanı
 ## İçindekiler
 
 - [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
-- [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Veritabanı Yapısı](#veritabanı-yapısı)
 
@@ -19,30 +18,6 @@ Bu proje, bir uçak rezervasyon sistemi geliştirmeyi amaçlamaktadır. Kullanı
 - **IDE:** IntelliJ IDEA
 - **Veritabanı:** SQL
 - **Diğer Araçlar:** Git, GitHub
-
-## Kurulum
-
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
-
-1. **Depoyu Klonlayın:**
-
-   ```sh
-   git clone https://github.com/44AegonTargaryen/Ucak-Rezervasyonu-Final-Projesi.git
-   ```
-
-2. **Proje Dizinine Geçin:**
-
-   ```sh
-   cd Ucak-Rezervasyonu-Final-Projesi
-   ```
-
-3. **Gerekli Bağımlılıkları Yükleyin:**
-
-   IntelliJ IDEA kullanarak projeyi açın ve gerekli bağımlılıkların otomatik olarak yüklenmesini sağlayın.
-
-4. **Veritabanını Kurun:**
-
-   SQL dosyasını kullanarak veritabanınızı oluşturun. Veritabanı bağlantı bilgilerini `src/main/resources` dizininde bulunan konfigürasyon dosyasına ekleyin.
 
 ## Kullanım
 
