@@ -1,0 +1,4 @@
+C:\Users\merto\source\repos\ucakdeneme5\ucakdeneme5\obj\Debug\ucakdeneme5.csproj.AssemblyReference.cache
+C:\Users\merto\source\repos\ucakdeneme5\ucakdeneme5\obj\Debug\ucakdeneme5.Properties.Resources.resources
+C:\Users\merto\source\repos\ucakdeneme5\ucakdeneme5\obj\Debug\ucakdeneme5.csproj.GenerateResource.cache
+C:\Users\merto\source\repos\ucakdeneme5\ucakdeneme5\obj\Debug\ucakdeneme5.csproj.CoreCompileInputs.cache
