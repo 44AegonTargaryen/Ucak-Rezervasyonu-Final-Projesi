@@ -1,4 +1,3 @@
-Tabii ki, aşağıda projenizin README dosyasını hazırladım. Bu README dosyasını GitHub'da projenizin ana dizinine koyabilirsiniz.
 
 # Uçak Rezervasyonu Final Projesi
 
